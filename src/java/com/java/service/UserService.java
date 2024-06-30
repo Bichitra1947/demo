@@ -17,5 +17,10 @@ public class UserService
 
 	public static void delete(){
 		// delete logic will be written
+
+
+	pubic static void update(){
+		int a=10;
+		//update logic here
 	}
 }

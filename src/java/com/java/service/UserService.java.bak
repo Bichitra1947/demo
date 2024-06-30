@@ -14,4 +14,12 @@ public class UserService
         boolean status=userDao.insertUserdeatils(data);
         return status;
     }
+
+	public static void delete(){
+		// delete logic will be written
+
+
+	pubic static void update(){
+		int a=10;
+	}
 }
