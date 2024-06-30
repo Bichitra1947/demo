@@ -21,6 +21,5 @@ public class UserService
 
 	pubic static void update(){
 		int a=10;
-		//update logic here
 	}
 }
